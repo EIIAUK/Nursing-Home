@@ -1,5 +1,9 @@
 # Nursing-Home
+养老院管理平台
+
 Nursing Home 可以进入http://zxyang.cn/ 预览(请在网页全屏下使用)
+
+
 
 vue+springboot+mybatis
 Nursing-home-management-platform
